@@ -1,4 +1,4 @@
-# Revised
+## REVISED
 # DIGC-158-Newsgame
 ## Save the Planet
 Proposal:
